@@ -7,14 +7,14 @@ Scanned Folder
 * Rails version 5
 
 * Gems
-	gem 'rails', '~> 5.0.6'
-	gem 'pg', '~> 0.18'
-	gem 'puma', '~> 3.0'
-	gem 'byebug', platform: :mri
+	gem 'rails'
+	gem 'pg'
+	gem 'puma'
+	gem 'byebug'
 	gem 'faker'
-	gem 'listen', '~> 3.0.5'
+	gem 'listen'
 	gem 'spring'
-	gem 'spring-watcher-listen', '~> 2.0.0'
+	gem 'spring-watcher-listen'
 
 * Configuration
 
