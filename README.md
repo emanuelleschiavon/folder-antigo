@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Scanned Folder
 
-Things you may want to cover:
+* Ruby version 2.3
 
-* Ruby version
+* Rails version 5
 
-* System dependencies
+* Gems
+	gem 'rails', '~> 5.0.6'
+	gem 'pg', '~> 0.18'
+	gem 'puma', '~> 3.0'
+	gem 'byebug', platform: :mri
+	gem 'faker'
+	gem 'listen', '~> 3.0.5'
+	gem 'spring'
+	gem 'spring-watcher-listen', '~> 2.0.0'
 
 * Configuration
 
-* Database creation
+* Database creation Postgres
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* Services
+	Rest
 
 * Deployment instructions
-
-* ...
