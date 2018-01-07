@@ -1,0 +1,2 @@
+# folder
+Pasta digitalizada: Essa pasta consiste em uma lista de documentos, cada documento é uma entidade que tem um 'titulo' e um 'conteúdo'. Nessa pasta, é possível criar um novo documento informando apenas o 'título'. Também deve ser possível selecionar um documento qualquer e fazer o upload de um arquivo pdf, a aplicação deve ser capaz de ler o conteúdo textual desse pdf e guardar o texto extraído em 'conteúdo'.
